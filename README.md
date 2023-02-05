@@ -3,7 +3,7 @@
 # Simple Face Detection with basic GUI in Python. 
 
 It counts the number of people visible in the camera. 
-#Used: 
+# Used: 
 Tkinter, OpenCV, XML
 
 
